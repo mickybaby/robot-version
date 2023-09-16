@@ -1,19 +1,23 @@
 {
-  "version": "2.9.6",
-  "notes": "",
-  "pub_date": "2023-09-13T03:15:49.100Z",
+  "version": "v1.0.0",
+  "notes": "Test version",
+  "pub_date": "2020-06-22T19:25:57Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVWFsNC96b0JCM3ExSnRwNlNyS2c3UmwybWVuazBRVWhoQWNwSzc4cjJwT3A1ZW1mRC9uVW54b2J3UWFuY1BGaHhtOWs4RkpwZWN1K2FTZmc3WHpNekEwVitmQWtqMEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NTc0Njg5CWZpbGU6Q2hhdEdQVCBOZXh0IFdlYl8yLjkuNl94NjRfZW4tVVMubXNpLnppcApvbzRPTXV2dzIvMk56SXF4dmphS2VNaGo3MlhCV1JWWXJTRGt4VEtOU0daakh1SGwxV3JwanNBS1lxNmVHUHdiUlUyZ1p2c3pGN0NUYTJmK2tqWHlBUT09Cg==",
-      "url": "https://github.com/Yidadaa/ChatGPT-Next-Web/releases/download/v2.9.6/ChatGPT.Next.Web_2.9.6_x64_en-US.msi.zip"
+    "darwin-x86_64": {
+      "signature": "Content of app.tar.gz.sig",
+      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "Content of app.tar.gz.sig",
+      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVWFsNC96b0JCM2cwTlFpN3ZvdzdpMXpwQWE0WkpWMGNJYXdJWEVoRjduNHhrOVZURkJtUEZJM3JEMThybEZzcldVcTluTlVLY2pzenRFSGgzWmovTnozdFhueXErNEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NTc0NzM1CWZpbGU6Y2hhdC1ncHQtbmV4dC13ZWJfMi45LjZfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Cmk4WEs4KzN2VUtLcjh2OHM1VncwN3B5TFVjVUtwTHQrT0IyRUMwTkJZVVEyOTJXVHJ5MDBwY280NENFNkQrUjZaMHdnbVVyYXlZYTlrUGlEQlVvRkR3PT0K",
-      "url": "https://github.com/Yidadaa/ChatGPT-Next-Web/releases/download/v2.9.6/chat-gpt-next-web_2.9.6_amd64.AppImage.tar.gz"
+      "signature": "Content of app.AppImage.tar.gz.sig",
+      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
     },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVWFsNC96b0JCM2k2ZW5zaUppbTdkenVUM05LeEdSYThjc0k0bWxKTHdWY0g1a3hJSVU2UUNYZEVQaWVURlZzMmlSM05RcThVazI4VnZEWXQraVR6OWcrTGM0dEtMZmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NTc0OTQ0CWZpbGU6Q2hhdEdQVCBOZXh0IFdlYi5hcHAudGFyLmd6Ck9PVXg5dWplSm0vVC9xeGhxR1l2SW5CZzc5Y2NtNFd4dlRjSGxGOS9WZy9DUFdSNkgveXI0VW9YS2szclVvQ3IzNkdneE9kZmZvQk96Z2g4MEJud0R3PT0K",
-      "url": "https://github.com/Yidadaa/ChatGPT-Next-Web/releases/download/v2.9.6/ChatGPT.Next.Web_x64.app.tar.gz"
+    "windows-x86_64": {
+      "signature": "Content of app.msi.sig",
+      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x64.msi.zip"
     }
   }
 }
