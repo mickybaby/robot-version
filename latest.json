@@ -1,19 +1,35 @@
 {
-  "version": "0.1.0",
-  "notes": "",
-  "pub_date": "2023-09-15T08:11:15.828Z",
+  "version": "v1.1.0",
+  "notes": "Fix:\n\n- Fixed the issue where the cmd slash command does not work in some cases.\n- Moved the export button to the sidebar to prevent layout conflicts.",
+  "pub_date": "2023-08-03T13:51:51.207Z",
   "platforms": {
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjNvSmQyVE9ZRlA5d2VIeTFBRWJnbXF5YjFwLzg1UTVFNVZ6cDBTdy9rZGllK2JYVE5TeDlTVFJic3BEOGYvNHJvWVduZ0t1cXBQSDR5VGRyZEpVeVpvdnVib0lFNndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NzY1MzMxCWZpbGU6cm9ib3RfMC4xLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CmF4ZUFLNm9qc1daRDEvc20wK2NoWTNGQm5MeTNQMDVjd2wyTFJlSklFajVOQmRreHQ4QmlwN0hsdnVqQnhjNWYxZVRRS3g5ZXJsWStWL3d0dWZWU0J3PT0K",
-      "url": "https://github.com/mickybaby/robot/releases/download/v0.1.0/robot_0.1.0_amd64.AppImage.tar.gz"
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1hqd0lEYnhHZUNLeVBEU3pVSVdXSHRuTWJpZU9WK0lrdmhtSmxXSHkwVHpzdTNWSVIwNE9sQ0ZRNjgwVDFPSWN5T2VKVUlScTJ1SHhxTDdTL1Z5K0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxMDcwNTY5CWZpbGU6Q2hhdEdQVF8xLjEuMF94NjRfZW4tVVMubXNpLnppcAppL3ByUExYai9wTDhPL2pGVGVnZTZTYUFoK3VQV1NHSGUvUE5ENXNEZUlUL3hXNW4xc0wvYUFqUHVWakt5UThkeVRpdC9sNDRyQ1VHc3Y2aFBFQmtCUT09Cg==",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_windows_x86_64.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc2J6VVhCODF0OWxqbEpCM2h5RU9ZVXNPRTE1QXloU1NJZjNBWVFYU2RzUTJUWVN0OFViaG9NSHBRWDFMZjB0N0ZnbU9TZmovekE3djRwMjdrMkQ2RkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxMDcwMDUwCWZpbGU6Y2hhdC1ncHRfMS4xLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CjN0K1BQZU5xcjdTQWVvNkZ4emVEb3hHemwzWVdwMVhEaGZkL1E4VktUYTFtRFQ1enlHaHMrWjVVRVdtZSsvY3c4cHBWVUxyZmQwZkJ1K3lua2hFOERRPT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_linux_x86_64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1ZWa0xwa1ZML093ajlmQU1IOEp0eWRnSjVZbEorWm1Iek5ZZnhMTE9tM3crRHl0NER3cU9pVkNNSU1zYjlHZituY3lwSDdhY2ZzRHZqV0xiRjhVUnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxMDcwMTI5CWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6ClVOYXYzZ2VRdVVIdG5ZTUNYTytyVXhHczFCRnBMakIwWkZXYWFRZEtZVjRCZVc3VU5jYkEwSFNpY2Y0emhpRXZCckVjdUk3QVhrYUNyMlBCeWE4RkJnPT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_macos_x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1U0THAwNWxLMFAycTZsRlNaNDVieVhDYlFFTTBGWnE4YXRHV3ZCWUd3dFFuRjBhTlNUbkRjQ251S3k5MUs0TE94alFMUzM1OFRVTFdxVEtrUlRWdWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxMDcwMjE1CWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6CnFoZkpkWnFOVmF4OE9ROWdna0dmUHZlZjV1N2RlcTRiZnFjY2t4UUxMcTE2akc1TXJlU1NwaTZHUzZMV004OWVyUGNteGdKbmVuaVljK29zRExkTUR3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_macos_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjNvSmQyVE9ZRksvVlhCMzZqUnZPam5MMmgyeHRHSjJDS2ZYRUJHWGkrZTZlSXp2VUc2QVZ3S1BCelBpMjNQWjhEYXd3WjlVcjZGaGE4c3pGOVVQRzRVTUxMaGdHZEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NzY1NDE0CWZpbGU6cm9ib3QuYXBwLnRhci5negpnZmtMQnNZU3ljZkhUSkczTWVOczlKQzl2SXNPODVkd3cxYW1OZ3phenZHamY2OVAzbWRpbXVUQUZyS1EzM2tSVlJzaG54M2UzZmdaWHoxRVRRNTdBUT09Cg==",
-      "url": "https://github.com/mickybaby/robot/releases/download/v0.1.0/robot_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1ZWa0xwa1ZML093ajlmQU1IOEp0eWRnSjVZbEorWm1Iek5ZZnhMTE9tM3crRHl0NER3cU9pVkNNSU1zYjlHZituY3lwSDdhY2ZzRHZqV0xiRjhVUnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxMDcwMTI5CWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6ClVOYXYzZ2VRdVVIdG5ZTUNYTytyVXhHczFCRnBMakIwWkZXYWFRZEtZVjRCZVc3VU5jYkEwSFNpY2Y0emhpRXZCckVjdUk3QVhrYUNyMlBCeWE4RkJnPT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_macos_x86_64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc2J6VVhCODF0OWxqbEpCM2h5RU9ZVXNPRTE1QXloU1NJZjNBWVFYU2RzUTJUWVN0OFViaG9NSHBRWDFMZjB0N0ZnbU9TZmovekE3djRwMjdrMkQ2RkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxMDcwMDUwCWZpbGU6Y2hhdC1ncHRfMS4xLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CjN0K1BQZU5xcjdTQWVvNkZ4emVEb3hHemwzWVdwMVhEaGZkL1E4VktUYTFtRFQ1enlHaHMrWjVVRVdtZSsvY3c4cHBWVUxyZmQwZkJ1K3lua2hFOERRPT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_linux_x86_64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjNvSmQyVE9ZRk9ZU2RualZEd1BPS1R4KzVHUUdjRS9kUjhiSExkdktKay8zVFlEZkFBSVNKTi9aSXByU1RnbHBtMjNNTHh5YitCc2RMV1RJdWxrV2tKbUs2R0k5UGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NzY1NDY3CWZpbGU6cm9ib3RfMC4xLjBfeDY0X2VuLVVTLm1zaS56aXAKbVdhdG5PbnpBVSswc25PcDR2WUFIVXByRHhqTm5GNmt1bWlhcjNWSGF6WjlESVR1MDJlendrYnZqOXp5WVoyOVM3U2ptekF0K2JpelNCbFdMZ29zQnc9PQo=",
-      "url": "https://github.com/mickybaby/robot/releases/download/v0.1.0/robot_0.1.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1hqd0lEYnhHZUNLeVBEU3pVSVdXSHRuTWJpZU9WK0lrdmhtSmxXSHkwVHpzdTNWSVIwNE9sQ0ZRNjgwVDFPSWN5T2VKVUlScTJ1SHhxTDdTL1Z5K0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxMDcwNTY5CWZpbGU6Q2hhdEdQVF8xLjEuMF94NjRfZW4tVVMubXNpLnppcAppL3ByUExYai9wTDhPL2pGVGVnZTZTYUFoK3VQV1NHSGUvUE5ENXNEZUlUL3hXNW4xc0wvYUFqUHVWakt5UThkeVRpdC9sNDRyQ1VHc3Y2aFBFQmtCUT09Cg==",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_windows_x86_64.msi.zip"
     }
   }
 }
