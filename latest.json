@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "notes": "",
+  "pub_date": "2023-09-15T08:11:15.828Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjNvSmQyVE9ZRlA5d2VIeTFBRWJnbXF5YjFwLzg1UTVFNVZ6cDBTdy9rZGllK2JYVE5TeDlTVFJic3BEOGYvNHJvWVduZ0t1cXBQSDR5VGRyZEpVeVpvdnVib0lFNndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NzY1MzMxCWZpbGU6cm9ib3RfMC4xLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CmF4ZUFLNm9qc1daRDEvc20wK2NoWTNGQm5MeTNQMDVjd2wyTFJlSklFajVOQmRreHQ4QmlwN0hsdnVqQnhjNWYxZVRRS3g5ZXJsWStWL3d0dWZWU0J3PT0K",
+      "url": "https://github.com/mickybaby/robot/releases/download/v0.1.0/robot_0.1.0_amd64.AppImage.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjNvSmQyVE9ZRksvVlhCMzZqUnZPam5MMmgyeHRHSjJDS2ZYRUJHWGkrZTZlSXp2VUc2QVZ3S1BCelBpMjNQWjhEYXd3WjlVcjZGaGE4c3pGOVVQRzRVTUxMaGdHZEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NzY1NDE0CWZpbGU6cm9ib3QuYXBwLnRhci5negpnZmtMQnNZU3ljZkhUSkczTWVOczlKQzl2SXNPODVkd3cxYW1OZ3phenZHamY2OVAzbWRpbXVUQUZyS1EzM2tSVlJzaG54M2UzZmdaWHoxRVRRNTdBUT09Cg==",
+      "url": "https://github.com/mickybaby/robot/releases/download/v0.1.0/robot_x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjNvSmQyVE9ZRk9ZU2RualZEd1BPS1R4KzVHUUdjRS9kUjhiSExkdktKay8zVFlEZkFBSVNKTi9aSXByU1RnbHBtMjNNTHh5YitCc2RMV1RJdWxrV2tKbUs2R0k5UGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NzY1NDY3CWZpbGU6cm9ib3RfMC4xLjBfeDY0X2VuLVVTLm1zaS56aXAKbVdhdG5PbnpBVSswc25PcDR2WUFIVXByRHhqTm5GNmt1bWlhcjNWSGF6WjlESVR1MDJlendrYnZqOXp5WVoyOVM3U2ptekF0K2JpelNCbFdMZ29zQnc9PQo=",
+      "url": "https://github.com/mickybaby/robot/releases/download/v0.1.0/robot_0.1.0_x64_en-US.msi.zip"
+    }
+  }
+}
