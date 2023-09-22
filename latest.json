@@ -5,7 +5,7 @@
   "platforms": {
     "win64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGg4amwvYmUySVZzbGhUeWU2dXZRS0NyVUR6MHBFS3RYQVVKVXQzWG1WYm5IeVEwb0xhcmhzSWR5QXdodjcveElWN2krU3hnTnBsWk05MThTSjJqZWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MzUyOTYxCWZpbGU6cm9ib3RfMS4zLjBfeDY0X2VuLVVTLm1zaS56aXAKY0tkaVdzOHM5M2ZvSUxVcmM0YjYwaVVDM2dMem1oajNCeEhZcTlVZ0hYOE9KaDN3S0dRY0J0dHkra3c2Y0VxWmJGbFdTTks1UStud1IyekpvZFNzQ2c9PQo=",
-      "url": "http://192.168.55.7:1080/robot_1.3.0_windows_x86_64.msi.zip"
+      "url": "http://192.168.55.7:1080/robot_1.3.0_windows_x86_64.msi"
     },
     "linux": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNG5RaTdMT09RRnhucVV3V3QvcDdJdHFlOFI5UnVkSDFKa3RlK2tLdlBSZmx4bXA4L0t2Wlo0ZFp1TUM2VzczTXNiWDBqNU9UQXFWWG5jbGVpR1ptekFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MzUyNjI4CWZpbGU6cm9ib3RfMS4zLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CndROEc2M1ZKQzFwWVhyMW8rN2hTd3NlSzU4RzFvQ3U1QStDQkkxNXRDMnVMTUVmS1VBZGhnZGRaZk0vSkRkaEdzRlpTSzMyN0NxcG5XNzVWYWdvSER3PT0K",
@@ -29,7 +29,7 @@
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGg4amwvYmUySVZzbGhUeWU2dXZRS0NyVUR6MHBFS3RYQVVKVXQzWG1WYm5IeVEwb0xhcmhzSWR5QXdodjcveElWN2krU3hnTnBsWk05MThTSjJqZWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MzUyOTYxCWZpbGU6cm9ib3RfMS4zLjBfeDY0X2VuLVVTLm1zaS56aXAKY0tkaVdzOHM5M2ZvSUxVcmM0YjYwaVVDM2dMem1oajNCeEhZcTlVZ0hYOE9KaDN3S0dRY0J0dHkra3c2Y0VxWmJGbFdTTks1UStud1IyekpvZFNzQ2c9PQo=",
-      "url": "http://192.168.55.7:1080/robot_1.3.0_windows_x86_64.msi.zip"
+      "url": "http://192.168.55.7:1080/robot_1.3.0_windows_x86_64.msi"
     }
   }
 }
