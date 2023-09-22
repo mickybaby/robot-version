@@ -1,35 +1,35 @@
 {
-  "version": "v1.6.0",
-  "notes": "Fix: 修复已知bug\n\n- 修复已知bug",
-  "pub_date": "2023-09-19T03:10:28.473Z",
+  "version": "v1.3.0",
+  "notes": "Note: 错误修复和改进\n\nFix:\n\n- 修复启动屏Bug！",
+  "pub_date": "2023-09-22T03:23:49.744Z",
   "platforms": {
     "win64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNG9HMks0eDZoVEZacUhQS1NpUHptdjUzc0U2d3VKSExSU1pKYXovb0RSZmprT0ZCRUNVZ2tNbktWSUdZaGZGdm1zN1A1OHJDWkdiQ0tjTzRhcUcyL3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDkyOTI1CWZpbGU6cm9ib3RfMS42LjBfeDY0X2VuLVVTLm1zaS56aXAKV05QSThWRlQ3Q295SHByeDVsN3VJZmFCNzJ3am5JTHhQeEhIUTYvZ0I5dkdSNXd6VEpUTExWbDZISU01R1JRL2l5aUhBeU5GRTdPOGNOSE1WdlZJREE9PQo=",
-      "url": "https://ghproxy.com/https://github.com/pigpig127/robot/releases/download/v1.6.0/robot_1.6.0_windows_x86_64.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGg4amwvYmUySVZzbGhUeWU2dXZRS0NyVUR6MHBFS3RYQVVKVXQzWG1WYm5IeVEwb0xhcmhzSWR5QXdodjcveElWN2krU3hnTnBsWk05MThTSjJqZWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MzUyOTYxCWZpbGU6cm9ib3RfMS4zLjBfeDY0X2VuLVVTLm1zaS56aXAKY0tkaVdzOHM5M2ZvSUxVcmM0YjYwaVVDM2dMem1oajNCeEhZcTlVZ0hYOE9KaDN3S0dRY0J0dHkra3c2Y0VxWmJGbFdTTks1UStud1IyekpvZFNzQ2c9PQo=",
+      "url": "https://ghproxy.com/https://github.com/liyueyue123/robot/releases/download/v1.3.0/robot_1.3.0_windows_x86_64.msi.zip"
     },
     "linux": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHFXNXlKcVBlMWY0Uy92M2pGZHRZeEFNT093OG16OWt5V01YZ1ZJOVZuTU00RXJyUlRmYW9qM3h0Ymx0Um90eEpKMjNWWDRnZHlEdVY0MlFLVmpMRmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDkyNTg0CWZpbGU6cm9ib3RfMS42LjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CmQyaTNVS0tOQkJ5VkNYc0luRWVIWlBLQnh6ek1pVC9GQkJTZVF4ZWdsYTduT0ZkcUwvUVdHRmdUSjVZbGV0L2xKVXU2cEtvYTMwa3Z4cHIzMVV5SkRnPT0K",
-      "url": "https://ghproxy.com/https://github.com/pigpig127/robot/releases/download/v1.6.0/robot_1.6.0_linux_x86_64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNG5RaTdMT09RRnhucVV3V3QvcDdJdHFlOFI5UnVkSDFKa3RlK2tLdlBSZmx4bXA4L0t2Wlo0ZFp1TUM2VzczTXNiWDBqNU9UQXFWWG5jbGVpR1ptekFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MzUyNjI4CWZpbGU6cm9ib3RfMS4zLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CndROEc2M1ZKQzFwWVhyMW8rN2hTd3NlSzU4RzFvQ3U1QStDQkkxNXRDMnVMTUVmS1VBZGhnZGRaZk0vSkRkaEdzRlpTSzMyN0NxcG5XNzVWYWdvSER3PT0K",
+      "url": "https://ghproxy.com/https://github.com/liyueyue123/robot/releases/download/v1.3.0/robot_1.3.0_linux_x86_64.AppImage.tar.gz"
     },
     "darwin": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHQveTZTTWZDOHZFOUNQUUd3MGgxZm9kVGxxTFV2VU9EUkRTcjlXbXR3cGdGZ3F6dWZaWmh1R0xHd0ptcURJOXZDZC9iL0poSnlEVGdQdTZpRDhnMHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDkyNTYxCWZpbGU6cm9ib3QuYXBwLnRhci5nego5V0hMRllXeGtZdzBKVWFHa0dNY2M0U0Frd0xQdW1GYVNOalErWU10Z0I2WDhaalNFNUt2SjBEd2szWFRMTHNaUVplN0RFS0ZFL05kY3JJb2k4MGFBdz09Cg==",
-      "url": "https://github.com/pigpig127/robot/releases/download/v1.6.0/robot_1.6.0_macos_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHZWSGpMRkpzYjZic0gxaGtaaThJYjFoVzZIL04zbktZYUpFVXp4dGlCWmlQRjVHMlpTR29lVjl6V1J5eGRkS05scHFROXZ1cUY3K25iSFA2VXYxOEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MzUyNDgyCWZpbGU6cm9ib3QuYXBwLnRhci5negozT21NRC9DNTJ5OWRJL0lxTlNXb3dRNklHa2djci9CemNablZjNXQzT0JNWDEwS3hKSkczSURYTHlHQm9RRXBSVzZvM2Q2akRQY0ZScVR3M2RmMFFDZz09Cg==",
+      "url": "https://ghproxy.com/https://github.com/liyueyue123/robot/releases/download/v1.3.0/robot_1.3.0_macos_x86_64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGtweHNtWSs5SEllU29JZ29HM2Q4eS9taDNKdktweGJrTGJQRmRhVVMveVZscy93THVPT0ZpT2QyamdKV3hOUCtxNmNpUklhajNML0pLU0hIWWplbmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDkyNTcwCWZpbGU6cm9ib3QuYXBwLnRhci5negpEeHcvUFYrYTJHalRXcWxXbDNCWS9PbGJkT0hEMTcxWGd4QncwUVd0eHhUTFVSZ2tsK2FSYW5vME5XT1B0dDJSMjVIbjVDWFR4Z0xBWFU4NlRUaVVDUT09Cg==",
-      "url": "https://ghproxy.com/https://github.com/pigpig127/robot/releases/download/v1.6.0/robot_1.6.0_macos_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNG9uQldrNmhDeFRST1dpeHdaWmgzdityaWZMMGd3b0hhUkpRdmd6bDRQa1VEVG9MQXVwRjZaSUpBTXRYa1pzeEVvU3hUUENtRUR4a28zNGs0SEo3cWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MzUyNTE5CWZpbGU6cm9ib3QuYXBwLnRhci5negpGOU9qdnMxOVUyZjR1WisrdzJKVWlUekhQamtvYjluU0pqOGdtUnFHOExod2pXTXkzVHk0TzNRamJxSVEzZWVlcUx4eldiMCtSNkZSS1dmWlJnSEREdz09Cg==",
+      "url": "https://ghproxy.com/https://github.com/liyueyue123/robot/releases/download/v1.3.0/robot_1.3.0_macos_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHQveTZTTWZDOHZFOUNQUUd3MGgxZm9kVGxxTFV2VU9EUkRTcjlXbXR3cGdGZ3F6dWZaWmh1R0xHd0ptcURJOXZDZC9iL0poSnlEVGdQdTZpRDhnMHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDkyNTYxCWZpbGU6cm9ib3QuYXBwLnRhci5nego5V0hMRllXeGtZdzBKVWFHa0dNY2M0U0Frd0xQdW1GYVNOalErWU10Z0I2WDhaalNFNUt2SjBEd2szWFRMTHNaUVplN0RFS0ZFL05kY3JJb2k4MGFBdz09Cg==",
-      "url": "https://ghproxy.com/https://github.com/pigpig127/robot/releases/download/v1.6.0/robot_1.6.0_macos_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHZWSGpMRkpzYjZic0gxaGtaaThJYjFoVzZIL04zbktZYUpFVXp4dGlCWmlQRjVHMlpTR29lVjl6V1J5eGRkS05scHFROXZ1cUY3K25iSFA2VXYxOEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MzUyNDgyCWZpbGU6cm9ib3QuYXBwLnRhci5negozT21NRC9DNTJ5OWRJL0lxTlNXb3dRNklHa2djci9CemNablZjNXQzT0JNWDEwS3hKSkczSURYTHlHQm9RRXBSVzZvM2Q2akRQY0ZScVR3M2RmMFFDZz09Cg==",
+      "url": "https://ghproxy.com/https://github.com/liyueyue123/robot/releases/download/v1.3.0/robot_1.3.0_macos_x86_64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHFXNXlKcVBlMWY0Uy92M2pGZHRZeEFNT093OG16OWt5V01YZ1ZJOVZuTU00RXJyUlRmYW9qM3h0Ymx0Um90eEpKMjNWWDRnZHlEdVY0MlFLVmpMRmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDkyNTg0CWZpbGU6cm9ib3RfMS42LjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CmQyaTNVS0tOQkJ5VkNYc0luRWVIWlBLQnh6ek1pVC9GQkJTZVF4ZWdsYTduT0ZkcUwvUVdHRmdUSjVZbGV0L2xKVXU2cEtvYTMwa3Z4cHIzMVV5SkRnPT0K",
-      "url": "https://ghproxy.com/https://github.com/pigpig127/robot/releases/download/v1.6.0/robot_1.6.0_linux_x86_64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNG5RaTdMT09RRnhucVV3V3QvcDdJdHFlOFI5UnVkSDFKa3RlK2tLdlBSZmx4bXA4L0t2Wlo0ZFp1TUM2VzczTXNiWDBqNU9UQXFWWG5jbGVpR1ptekFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MzUyNjI4CWZpbGU6cm9ib3RfMS4zLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CndROEc2M1ZKQzFwWVhyMW8rN2hTd3NlSzU4RzFvQ3U1QStDQkkxNXRDMnVMTUVmS1VBZGhnZGRaZk0vSkRkaEdzRlpTSzMyN0NxcG5XNzVWYWdvSER3PT0K",
+      "url": "https://ghproxy.com/https://github.com/liyueyue123/robot/releases/download/v1.3.0/robot_1.3.0_linux_x86_64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNG9HMks0eDZoVEZacUhQS1NpUHptdjUzc0U2d3VKSExSU1pKYXovb0RSZmprT0ZCRUNVZ2tNbktWSUdZaGZGdm1zN1A1OHJDWkdiQ0tjTzRhcUcyL3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDkyOTI1CWZpbGU6cm9ib3RfMS42LjBfeDY0X2VuLVVTLm1zaS56aXAKV05QSThWRlQ3Q295SHByeDVsN3VJZmFCNzJ3am5JTHhQeEhIUTYvZ0I5dkdSNXd6VEpUTExWbDZISU01R1JRL2l5aUhBeU5GRTdPOGNOSE1WdlZJREE9PQo=",
-      "url": "https://ghproxy.com/https://github.com/pigpig127/robot/releases/download/v1.6.0/robot_1.6.0_windows_x86_64.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGg4amwvYmUySVZzbGhUeWU2dXZRS0NyVUR6MHBFS3RYQVVKVXQzWG1WYm5IeVEwb0xhcmhzSWR5QXdodjcveElWN2krU3hnTnBsWk05MThTSjJqZWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MzUyOTYxCWZpbGU6cm9ib3RfMS4zLjBfeDY0X2VuLVVTLm1zaS56aXAKY0tkaVdzOHM5M2ZvSUxVcmM0YjYwaVVDM2dMem1oajNCeEhZcTlVZ0hYOE9KaDN3S0dRY0J0dHkra3c2Y0VxWmJGbFdTTks1UStud1IyekpvZFNzQ2c9PQo=",
+      "url": "https://ghproxy.com/https://github.com/liyueyue123/robot/releases/download/v1.3.0/robot_1.3.0_windows_x86_64.msi.zip"
     }
   }
 }
